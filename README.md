@@ -2,7 +2,7 @@
 
 ![Status](http://img.shields.io/static/v1?label=Status&message=Em%20Desenvolvimento&color=yellow&style=for-the-badge)
 
-O objetivo do projeto foi desenvolver uma API REST para gerenciamento dos itens da lista de presentes do chá com temática de festa junina.
+O objetivo do projeto foi desenvolver uma API REST o projeto GCP E-Commerce.
 
 ## 🛠 Tecnologias
 
