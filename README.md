@@ -22,10 +22,10 @@ As seguintes ferramentas foram usadas na construção do projeto:
 ```bash
 
 # Clone este repositório
-$ git clone https://github.com/Gustavo-Cruz-Pinheiro/charraiagg-back-end.git
+$ git clone https://github.com/Gustavo-Cruz-Pinheiro/gcpecommerce-server.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd charraiagg-back-end
+$ cd gcpecommerce-server
 
 # Instale as dependências com
 $ npm i
