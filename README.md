@@ -4,7 +4,7 @@
 
 O objetivo do projeto foi desenvolver uma API REST o projeto GCP E-Commerce.
 
-![Demonstração da Aplicação](./src/assets/logo_branco.png)
+![Demonstração da Aplicação](./assets/logo_branco.png)
 
 ## 🛠 Tecnologias
 
